@@ -22,9 +22,6 @@ public class Employee {
 
 
 
-	public void setFirstName(String firstName) {
-		this.firstName = firstName;
-	}
 
 
 
@@ -33,11 +30,6 @@ public class Employee {
 	}
 
 
-
-	public void setLastName(String lastName) {
-		this.lastName = lastName;
-	}
-	
 	
 	
 	
